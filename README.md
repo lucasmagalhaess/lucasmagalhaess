@@ -1,4 +1,4 @@
-### Olá! Me chamo Lucas Magalhães! 👋
+### Hello! My name is Lucas Magalhães! 👋
 
 
 
