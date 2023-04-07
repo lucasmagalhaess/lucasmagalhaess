@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando Python e SQL
-- 😄 Pronome: Ele/Dele
+- 🔭 For now, I'm focused on personal projects
+- 🌱 Studying Python and SQL or data analysis
+- 😄 Pronoun: He/Him
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmagalhaess&theme=github_dark)
