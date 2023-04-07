@@ -3,7 +3,7 @@
 
 
 - 🔭 For now, I'm focused on personal projects
-- 🌱 Studying Python and SQL or data analysis
+- 🌱 Studying Python, SQL and data analysis
 - 😄 Pronoun: He/Him
 
 
