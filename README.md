@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Magalhães</h1>
-<h3 align="center">Gosto de utilizar Análise de Dados para auxiliar nas tomadas de decisões</h3>
+<h3 align="center">Gosto de utilizar Análise de Dados para auxiliar na tomada de decisão</h3>
 
 - 🔭 Trabalho com **Análise e Visualização de dados**
 
