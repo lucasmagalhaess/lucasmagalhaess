@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Magalhães</h1>
 <h3 align="center">Gosto de utilizar Análise de Dados para auxiliar na tomada de decisão</h3>
 
-- 🔭 Trabalho com **Análise e Visualização de dados**
+- 🔭 Trabalho com **Desenvolvimento e Análise de dados**
 
-- 🌱 Estou estudando **Python, Machine Learning e SQL**
+- 🌱 Estou estudando **Java, Python, Machine Learning e SQL**
 
 - 👯 Atualmente estou **Open to Work**
 
-- 💬 Me pergunte sobre **Python, SQL, Power BI e Excel**
+- 💬 Me pergunte sobre **Java, Python, SQL, Power BI e Excel**
 
 - 📫 Você me acha através do email **lucasjulho2807@gmail.com**
 
